@@ -16,6 +16,11 @@ Você pode visualizar o layout do projeto através dos links abaixo:
 
 Para abrir o arquivo no formato `.fig` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
 
+
+## 🔥 Preview
+
+[![Deploy with Vercel](https://vercel.com/button)](https://moveit-eight-blond.vercel.app/) 
+
 ## :information_source: Como usar
 
 ```bash
@@ -37,3 +42,9 @@ $ yarn start
 - Faça push para a sua branch: `git push origin minha-feature`.
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+## 🧠 Desafio
+
+No link a seguir você layout da versão 2.0 do MoveIt.
+
+- [Desafio MoveIt 2.0](https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate)
