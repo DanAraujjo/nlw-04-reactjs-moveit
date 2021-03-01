@@ -1,5 +1,5 @@
 <h1 align="center">
-     <img alt="" title="" src=".github/happy.png"  width="480px"/>
+     <img alt="" title="" src=".github/moveit.svg"  width="480px"/>
 </h1>
 
 ## 💻 Projeto
@@ -45,6 +45,6 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## 🧠 Desafio
 
-No link a seguir você layout da versão 2.0 do MoveIt.
+No link a seguir você layout da versão 2.0 do Move.It
 
-- [Desafio MoveIt 2.0](https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate)
+- [Desafio Move.It 2.0](https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate)
