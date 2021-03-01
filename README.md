@@ -45,6 +45,6 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## 🧠 Desafio
 
-No link a seguir você layout da versão 2.0 do Move.It
+No link a seguir você encontra o layout da versão 2.0 do Move.it
 
-- [Desafio Move.It 2.0](https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate)
+- [Desafio Move.it 2.0](https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0/duplicate)
